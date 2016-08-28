@@ -1,0 +1,9 @@
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\bin\Debug\ExecuteCMDCommand.exe.config
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\bin\Debug\ExecuteCMDCommand.exe
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\bin\Debug\ExecuteCMDCommand.pdb
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Debug\ExecuteCMDCommand.Form1.resources
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Debug\ExecuteCMDCommand.Properties.Resources.resources
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Debug\ExecuteCMDCommand.csproj.GenerateResource.Cache
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Debug\ExecuteCMDCommand.exe
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Debug\ExecuteCMDCommand.pdb
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Debug\ExecuteCMDCommand.csprojResolveAssemblyReference.cache

@@ -1,0 +1,3 @@
+C:\Users\trong\OneDrive\Me\Projects\AutoShutdownPC\ExecuteCMDCommand\bin\Debug\ExecuteCMDCommand.exe.config
+C:\Users\trong\OneDrive\Me\Projects\AutoShutdownPC\ExecuteCMDCommand\obj\Debug\ExecuteCMDCommand.exe
+C:\Users\trong\OneDrive\Me\Projects\AutoShutdownPC\ExecuteCMDCommand\obj\Debug\ExecuteCMDCommand.pdb

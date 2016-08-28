@@ -1,0 +1,8 @@
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\bin\Release\ExecuteCMDCommand.exe.config
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\bin\Release\ExecuteCMDCommand.exe
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\bin\Release\ExecuteCMDCommand.pdb
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Release\ExecuteCMDCommand.Form1.resources
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Release\ExecuteCMDCommand.Properties.Resources.resources
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Release\AutoShutdownPC.csproj.GenerateResource.Cache
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Release\ExecuteCMDCommand.exe
+C:\Users\trong\Desktop\AutoShutdownPC\ExecuteCMDCommand\obj\Release\ExecuteCMDCommand.pdb
